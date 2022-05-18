@@ -1,0 +1,8 @@
+Amber Phillips
+CS 202
+
+1) A new file named newfile.txt was created. The > was able to insert and place the list of files that was inside the directory in the file. When typing ls on its own, the list of files shows up in the terminal, but using ls > newfile.txt, the list of files shows up inside that file. 
+
+2) It said that the branch master was up to date with origin/master and the changes are comitted, meaning it was able to add the new file. This command shows which files were added/deleted and which files were not.
+
+3) It shows what text was inside the newfile.txt. It also shows what changes were made within that file. For example, it says +This is my file listing, because that's what I added to the file before doing that command.
